@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManishaKotegar
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning Java , Springboot
+- 🌱 I’m currently learning Java , Springboot,React Js
 - 💞️ I’m looking to collaborate on java and springboot team collaboration
 - 📫 How to reach me "manishakotegar17@gmail.com
 - 😄 Pronouns: ...
